@@ -9,7 +9,7 @@
  *     IBM Corporation - Initial implementation
  *******************************************************************************/
 
-package io.openliberty.sample.system;
+package io.openliberty.sample.syste;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
